@@ -1,6 +1,6 @@
 # Data Structure Database
 This repository is a collection of the data structures and algorithms I have been practicing and developing.
-If you have any suggestions, feel free to make suggestions or send me a message :) 
+If you have any suggestions, feel free to make suggestions or send me a message :blush:
 
 ## Data Structures
 [Linked Lists]()
