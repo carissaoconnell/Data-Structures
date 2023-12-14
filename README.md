@@ -14,5 +14,5 @@ If you have any suggestions, feel free to make suggestions or send me a message 
 
 ## Graph-Theory
 Undirected Graphs
-- [Breadth First Search for Undirected Graphs](https://github.com/carissaoconnell/Data-Structures/blob/main/BFSUndirectedGraph.java)
-- [Depth First Search for Undirected Graphs](https://github.com/carissaoconnell/Data-Structures/blob/main/DFSUndirectedGraph.java)
+- [Breadth First Search for Undirected Graphs](https://github.com/carissaoconnell/Data-Structures/blob/main/UndirectedGraphBFS.java)
+- [Depth First Search for Undirected Graphs](https://github.com/carissaoconnell/Data-Structures/blob/main/UndirectedGraphDFS.java)
