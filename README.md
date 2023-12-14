@@ -5,10 +5,10 @@ If you have any suggestions, feel free to make suggestions or send me a message 
 ## Data Structures
 [Linked Lists]()
 
-[Queue]()
+Queue
 - [Queue using Linked Lists]()
 
-[Stack]()
+Stack
 - [Stack using Linked List]()
 - [Stack using Array]()
 
