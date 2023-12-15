@@ -55,7 +55,7 @@ public class UndirectedGraphDFS {
         System.out.println("Enter the vertex to start the DFS from: " ); 
           int DFSvertex = userInput.nextInt();
 
-        System.out.println("\nFollowing is the Depth First Traversal");
+        System.out.print("\nFollowing is the Depth First Traversal");
           graph.DFS(DFSvertex);
   }
 }
