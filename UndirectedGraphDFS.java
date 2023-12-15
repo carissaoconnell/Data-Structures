@@ -29,8 +29,9 @@ public class UndirectedGraphDFS {
     Iterator<Integer> iterator = adjacencyList[vertex].listIterator();
     while (iterator.hasNext()) {
       int adjacentNode = iterator.next();
-      if (!visited[adjacentNode])
+      if (!visited[adjacentNode]) {
         DFS(adjacentNode);
+      }
     }
   }
 
