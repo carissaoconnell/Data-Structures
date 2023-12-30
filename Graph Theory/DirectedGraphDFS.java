@@ -26,8 +26,9 @@ class DirectedGraphDFS {
     Iterator<Integer> nodeIterator = adjacencyList[vertex].listIterator();
     while (nodeIterator.hasNext()) {  
       int nextNode = nodeIterator.next();  
-      if (!visited[nextNode])  
+      if (!visited[nextNode]) {  
         DFS(nextNode);  
+      }
     }  
   }  
   
@@ -74,5 +75,8 @@ class DirectedGraphDFS {
         graph.insertEdge(5, 2);    
           
         System.out.println("Depth First Traversal for the graph is:");    
-        graph.DFS(0);    
+        graph.DFS(0);  
+        
+        Following is the Depth First Traversal
+        0 1 3 5 2 4 7 6 
  */
