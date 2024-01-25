@@ -3,8 +3,8 @@ This repository is a collection of the data structures and algorithms I have bee
 If you have any suggestions, feel free to make suggestions or send me a message :blush:
 
 ## Data Structures
-[Linked Lists]()
-[Binary Tree](https://github.com/carissaoconnell/Data-Structures/blob/main/Binary%20Tree/binaryTreeFunctions.java)
+- [Linked Lists]()
+- [Binary Tree](https://github.com/carissaoconnell/Data-Structures/blob/main/Binary%20Tree/binaryTreeFunctions.java)
 
 Queue
 - [Queue using Linked Lists]()
@@ -25,7 +25,7 @@ Directed Graphs
 - [Depth First Search for Directed Graph](https://github.com/carissaoconnell/Data-Structures/blob/main/Graph%20Theory/DirectedGraphDFS.java)
 
 Weighted Graphs
--[Weighted Graph Example](https://github.com/carissaoconnell/Data-Structures/blob/main/Graph%20Theory/WeightedGraph.java)
+- [Weighted Graph Example](https://github.com/carissaoconnell/Data-Structures/blob/main/Graph%20Theory/WeightedGraph.java)
 
 Cycle Detection
 - [Detect a cycle in an Undirected Graph](https://github.com/carissaoconnell/Data-Structures/blob/main/Graph%20Theory/Cycle%20Detection/detectCycleUndirectedGraph.java)
