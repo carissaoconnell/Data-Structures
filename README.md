@@ -5,6 +5,8 @@ If you have any suggestions, feel free to make suggestions or send me a message 
 ## Data Structures
 - [Linked Lists]()
 - [Binary Tree](https://github.com/carissaoconnell/Data-Structures/blob/main/Binary%20Tree/binaryTreeFunctions.java)
+- [Binary Tree Functions in C++ with menu - option 1]()
+- [Binary Tree Functions in C++ with menu - option 2]()
 
 Queue
 - [Queue using Linked Lists]()
