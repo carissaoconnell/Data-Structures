@@ -3,7 +3,8 @@ This repository is a collection of the data structures and algorithms I have bee
 If you have any suggestions, feel free to make suggestions or send me a message :blush:
 
 ## Data Structures
-- [Linked Lists]()
+- [Linked List Traversal - C++]()
+- [Linked List with all Functions - C++]()
 - [Binary Tree](https://github.com/carissaoconnell/Data-Structures/blob/main/Binary%20Tree/binaryTreeFunctions.java)
 - [Binary Tree Functions in C++ with menu - option 1](https://github.com/carissaoconnell/Data-Structures/blob/main/Binary%20Tree/BSTFunctions01.cpp)
 - [Binary Tree Functions in C++ with menu - option 2](https://github.com/carissaoconnell/Data-Structures/blob/main/Binary%20Tree/BSTFunctions.cpp)
