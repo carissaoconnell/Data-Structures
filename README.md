@@ -36,5 +36,5 @@ Cycle Detection
 - [Detect a cycle in a Directed Graph using Breadth First Search](https://github.com/carissaoconnell/Data-Structures/blob/main/Graph%20Theory/Cycle%20Detection/detectCycleDirectedGraphBFS01.java)
 - [Detect a cycle in a Directed Graph using Depth First Search](https://github.com/carissaoconnell/Data-Structures/blob/main/Graph%20Theory/Cycle%20Detection/detectCycleDirectedGraphDFS.java)
 
-##Algorithms
+## Algorithms
 -[Palindrome in C++]()
