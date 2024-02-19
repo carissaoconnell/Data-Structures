@@ -39,3 +39,5 @@ Cycle Detection
 ## Algorithms
 - [Palindrome in C++]()
 - [Binary Search]()
+- [Reverse a String - Java]()
+- [Check for odd elements in the List - Java]()
