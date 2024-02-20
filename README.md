@@ -11,11 +11,12 @@ If you have any suggestions, feel free to make suggestions or send me a message 
 - [Binary Tree Functions in C++ with menu - option 2](https://github.com/carissaoconnell/Data-Structures/blob/main/Binary%20Tree/BSTFunctions.cpp)
 
 Queue
-- [Queue using Linked Lists]()
+- [Queue using Linked Lists](https://github.com/carissaoconnell/Data-Structures/blob/main/LInear%20Data%20Structures/QueueLinkedList.cpp)
 
 Stack
 - [Stack using Linked List](https://github.com/carissaoconnell/Data-Structures/blob/main/LInear%20Data%20Structures/stackLinkedList.java)
 - [Stack as Linked List with Menu](https://github.com/carissaoconnell/Data-Structures/blob/main/LInear%20Data%20Structures/stackLinkedListMenu.java)
+- [Stack as Linked List with Options](https://github.com/carissaoconnell/Data-Structures/blob/main/LInear%20Data%20Structures/StackLinkedList.cpp)
 - [Stack using Array]()
 
 ## Graph-Theory
