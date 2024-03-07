@@ -11,7 +11,7 @@ If you have any suggestions, feel free to make suggestions or send me a message 
 - [Binary Tree Functions in C++ with menu - option 2](https://github.com/carissaoconnell/Data-Structures/blob/main/Binary%20Tree/BSTFunctions.cpp)
 
 Queue
-- [Queue using Linked Lists](https://github.com/carissaoconnell/Data-Structures/blob/main/LInear%20Data%20Structures/QueueLinkedList.cpp)
+- [Queue using Linked Lists - C++](https://github.com/carissaoconnell/Data-Structures/blob/main/LInear%20Data%20Structures/QueueLinkedList.cpp)
 
 Stack
 - [Stack using Linked List - Java](https://github.com/carissaoconnell/Data-Structures/blob/main/LInear%20Data%20Structures/stackLinkedList.java)
