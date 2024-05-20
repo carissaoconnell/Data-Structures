@@ -43,3 +43,11 @@ Cycle Detection
 - [Binary Search - C++](https://github.com/carissaoconnell/Data-Structures/blob/main/Algorithms/binarySearch.cpp)
 - [Reverse a String - Java](https://github.com/carissaoconnell/Data-Structures/blob/main/Algorithms/reverseString.java)
 - [Check for odd elements in the List - Java](https://github.com/carissaoconnell/Data-Structures/blob/main/Algorithms/checkOddElementsInList.java)
+
+## Greedy Algorithms
+- [Greedy Algorithm]
+- [Ford-Fulkerson Algorithm]
+- [Dijkstra's Algorithm]
+- [Kruska's Algorithm]
+- [Prim's Algorithm]
+- [Huffman Coding]
