@@ -38,6 +38,7 @@ Cycle Detection
 - [Detect a cycle in a Directed Graph using Depth First Search - Java](https://github.com/carissaoconnell/Data-Structures/blob/main/Graph%20Theory/Cycle%20Detection/detectCycleDirectedGraphDFS.java)
 
 ## Algorithms
+## Searching and Sorting Algorithms
 - [Palindrome in C++](https://github.com/carissaoconnell/Data-Structures/blob/main/Algorithms/palindrome.cpp)
 - [Binary Search - C++](https://github.com/carissaoconnell/Data-Structures/blob/main/Algorithms/binarySearch.cpp)
 - [Reverse a String - Java](https://github.com/carissaoconnell/Data-Structures/blob/main/Algorithms/reverseString.java)
