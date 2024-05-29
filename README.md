@@ -9,9 +9,9 @@ If you have any suggestions, feel free to make suggestions or send me a message 
 
 
 Trees
-- [Binary Tree - Java](https://github.com/carissaoconnell/Data-Structures/blob/main/Binary%20Tree/binaryTreeFunctions.java)
-- [Binary Serach Tree Functions in C++ with menu - option 1](https://github.com/carissaoconnell/Data-Structures/blob/main/Binary%20Tree/BSTFunctions01.cpp)
-- [Binary Search Tree Functions in C++ with menu - option 2](https://github.com/carissaoconnell/Data-Structures/blob/main/Binary%20Tree/BSTFunctions.cpp)
+- [Binary Tree - Java](https://github.com/carissaoconnell/Data-Structures/blob/main/Trees/binaryTreeFunctions.java)
+- [Binary Serach Tree Functions in C++ with menu - option 1](https://github.com/carissaoconnell/Data-Structures/blob/main/Trees/Binary%20Serach%20Tree/BSTFunctions.cpp)
+- [Binary Search Tree Functions in C++ with menu - option 2](https://github.com/carissaoconnell/Data-Structures/blob/main/Trees/Binary%20Serach%20Tree/BSTFunctions01.cpp)
 
 Queue
 - [Queue using Linked Lists - C++](https://github.com/carissaoconnell/Data-Structures/blob/main/LInear%20Data%20Structures/QueueLinkedList.cpp)
