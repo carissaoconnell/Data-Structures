@@ -23,7 +23,7 @@ Stack
 - [Stack using Array - Java](https://github.com/carissaoconnell/Data-Structures/blob/main/LInear%20Data%20Structures/stackArray01.java)
 
 Hybrid Data Structures
--[Stacks and Queues with Menu](https://github.com/carissaoconnell/Data-Structures/blob/main/LInear%20Data%20Structures/StackQueueMenu%20-%20with%20methds.java) 
+- [Stacks and Queues with Menu](https://github.com/carissaoconnell/Data-Structures/blob/main/LInear%20Data%20Structures/StackQueueMenu%20-%20with%20methds.java) 
 
 ## Graph-Theory
 Undirected Graphs
