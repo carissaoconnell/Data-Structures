@@ -22,6 +22,9 @@ Stack
 - [Stack as Linked List with Options - C++](https://github.com/carissaoconnell/Data-Structures/blob/main/LInear%20Data%20Structures/StackLinkedList.cpp)
 - [Stack using Array - Java](https://github.com/carissaoconnell/Data-Structures/blob/main/LInear%20Data%20Structures/stackArray01.java)
 
+Hybrid Data Structures
+-[Stacks and Queues with Menu](https://github.com/carissaoconnell/Data-Structures/blob/main/LInear%20Data%20Structures/StackQueueMenu%20-%20with%20methds.java) 
+
 ## Graph-Theory
 Undirected Graphs
 - [Breadth First Search for Undirected Graphs - Java](https://github.com/carissaoconnell/Data-Structures/blob/main/Graph%20Theory/UndirectedGraphBFS.java)
