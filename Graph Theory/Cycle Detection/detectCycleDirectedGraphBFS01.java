@@ -1,4 +1,4 @@
-// detect cycle in a Directed Graph using Breadth First Search
+// detect cycle in a Directed Graph using Breadth First Search using a recursive approach
 
 import java.io.*;
 import java.util.*;
@@ -124,6 +124,25 @@ class detectCycleDirectedGraphBFS01
 }
 
 /*
+
+Example:
+
+Enter the number of edges in the graph: 
+6
+Enter the <start node> and its <connected node> : 
+0 1
+Enter the <start node> and its <connected node> : 
+1 2
+Enter the <start node> and its <connected node> : 
+2 0
+Enter the <start node> and its <connected node> : 
+2 3
+Enter the <start node> and its <connected node> : 
+3 4
+Enter the <start node> and its <connected node> : 
+4 5
+A cycle was found in the graph
+
  @Test {
     Enter the number of edges in the graph: 6
 
