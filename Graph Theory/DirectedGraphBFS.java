@@ -87,29 +87,20 @@ public class DirectedGraphBFS
 
 
 /*
-@Test 
-public class DirectedGraphBFSTest
-{
-     DirectedGraphBFS graph = new BFSTraversal(13); 
-        graph.addEdge(0, 1);    
-        graph.addEdge(0, 2);    
-        graph.addEdge(0, 3);    
-        graph.addEdge(1, 3);    
-        graph.addEdge(2, 4);  
-        graph.addEdge(3, 5);       
-        graph.addEdge(3, 6);    
-        graph.addEdge(4, 7);    
-        graph.addEdge(4, 5);    
-        graph.addEdge(5, 2);    
-        graph.addEdge(6, 5);    
-        graph.addEdge(7, 5);  
-        graph.addEdge(7, 8);   
 
-        System.out.println("Breadth First Traversal for the graph is:");    
-        
-        graph.BFS(2);  
+Example:
 
-        Following is the Breadth First Traversal:
-        2 4 7 5 8  
-}
+Enter the number of edges in the graph: 
+3
+Enter the <start node> and its <connected node> : 
+0 1
+Enter the <start node> and its <connected node> : 
+1 2
+Enter the <start node> and its <connected node> : 
+2 0
+Enter the vertex to start the Breadth First Search: 
+2
+
+Following is the Breadth First Traversal: 2 0 1 
+
 */
