@@ -21,6 +21,7 @@ public class UndirectedGraphDFS
   void addEdge(int source, int destination) 
   {
     adjacencyList[source].add(destination);
+    adjacencyList[destination].add(source);  
   }
 
   // DFS algorithm
