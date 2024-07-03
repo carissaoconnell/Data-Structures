@@ -1,7 +1,6 @@
-// BFS for UNDIRECTED GRAPH
+// BFS iterative implementation for UNDIRECTED GRAPH
 
 import java.util.*;
-import java.util.LinkedList;
 
 public class UndirectedGraphBFS 
 {
@@ -24,34 +23,29 @@ public class UndirectedGraphBFS
   void addEdge(int vertex, int weight) 
   {
     adjacencyList[vertex].add(weight);
+    adjacencyList[vertex].add(weight);
   }
 
-  // BFS algorithm
-  void BFS(int source) 
-  {
-    boolean visited[] = new boolean[vertices];
+    // BFS algorithm
+    void BFS(int source) {
+      boolean visited[] = new boolean[vertices];
 
-    LinkedList<Integer> queue = new LinkedList();
+      LinkedList<Integer> queue = new LinkedList();
 
-    visited[source] = true;
-    queue.add(source);
+      visited[source] = true;
+      queue.add(source);
 
-    while (queue.size() != 0) 
-    {
-      source = queue.poll();
-      System.out.print(source + " ");
+      while (queue.size() != 0) {
+          int currentVertex = queue.poll();
+          System.out.print(currentVertex + " ");
 
-      Iterator<Integer> i = adjacencyList[source].listIterator();
-      while (i.hasNext()) 
-      {
-        int nextNode = i.next();
-        if (!visited[nextNode]) 
-        {
-          visited[nextNode] = true;
-          queue.add(nextNode);
-        }
+          for (int neighbor : adjacencyList[currentVertex]) {
+              if (!visited[neighbor]) {
+                  visited[neighbor] = true;
+                  queue.add(neighbor);
+              }
+          }
       }
-    }
   }
 
   public static void main(String args[]) 
