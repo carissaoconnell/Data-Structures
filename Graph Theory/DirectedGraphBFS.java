@@ -61,28 +61,31 @@ public class DirectedGraphBFS
     
     public static void main(String args[])    
     {    
-        int numEdges, startNode, destinationNode;
-        Scanner userInput = new Scanner(System.in);
+    int numVertices, numEdges, startNode, destinationNode;
+    Scanner userInput = new Scanner(System.in);
 
-        System.out.println("Enter the number of edges in the graph: ");
-        numEdges = userInput.nextInt();
-		  DirectedGraphBFS graph = new DirectedGraphBFS(numEdges);
+    System.out.println("Enter the number of vertices in the graph: ");
+    numVertices = userInput.nextInt();
+    DirectedGraphBFS graph = new DirectedGraphBFS(numVertices);
 
-        while(numEdges != 0) 
-        {
-            numEdges = numEdges - 1;
-            System.out.println("Enter the <start node> and its <connected node> : ");
-            startNode = userInput.nextInt();
-            destinationNode = userInput.nextInt();
-            graph.addEdge(startNode,destinationNode);
-        }
+    System.out.println("Enter the number of edges in the graph: ");
+    numEdges = userInput.nextInt();
+
+    while(numEdges!= 0) 
+    {
+        numEdges = numEdges - 1;
+        System.out.println("Enter the <start node> and its <connected node> : ");
+        startNode = userInput.nextInt();
+        destinationNode = userInput.nextInt();
+        graph.addEdge(startNode,destinationNode);
+    }
 
     System.out.println("Enter the vertex to start the Breadth First Search: ");
-      int BFSvertex = userInput.nextInt();
+    int BFSvertex = userInput.nextInt();
 
     System.out.print("\nFollowing is the Breadth First Traversal: ");
-      graph.BFS(BFSvertex);
-    }    
+    graph.BFS(BFSvertex);
+    }   
 } 
 
 
