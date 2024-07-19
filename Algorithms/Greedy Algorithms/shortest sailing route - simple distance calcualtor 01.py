@@ -1,3 +1,8 @@
+# To celebrate the upcoming sailing olympics, I created a simple, playful calculator
+# that uses Dijkstra's algorithm to find the shortest distance between each location.
+# The calculator is meant to have fun playing with latitude and longitude locations and to demonstrate Dijkstra's algorithm
+
+
 import math
 
 def distance(lat1, lon1, lat2, lon2):
