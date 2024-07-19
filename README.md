@@ -60,7 +60,7 @@ Cycle Detection
 ## Greedy Algorithms
 - [Greedy Algorithm]
 - [Ford-Fulkerson Algorithm]
-- [Dijkstra's Algorithm]
+- [Dijkstra's Algorithm]()
 - [Kruska's Algorithm]
 - [Prim's Algorithm]
 - [Huffman Coding]
