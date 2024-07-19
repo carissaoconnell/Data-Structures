@@ -60,7 +60,7 @@ Cycle Detection
 ## Greedy Algorithms
 - [Greedy Algorithm]
 - [Ford-Fulkerson Algorithm]
-- [Dijkstra's Algorithm]()
+- [Dijkstra's Algorithm](https://github.com/carissaoconnell/Data-Structures/blob/main/Algorithms/Greedy%20Algorithms/shortest%20sailing%20route%20-%20simple%20distance%20calcualtor%2001.py)
 - [Kruska's Algorithm]
 - [Prim's Algorithm]
 - [Huffman Coding]
